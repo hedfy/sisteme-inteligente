@@ -1,0 +1,19 @@
+# Mediul virtual (cel care ți-a generat cele 6000 de fișiere)
+.venv/
+venv/
+ENV/
+env/
+
+# Cache-ul de Python (fișierele .pyc care se generează automat)
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Cache pentru Jupyter Notebooks (dacă folosești fișiere .ipynb)
+.ipynb_checkpoints/
+
+# Fișiere de configurare ale sistemului de operare sau editorului
+.DS_Store
+Thumbs.db
+.vscode/
