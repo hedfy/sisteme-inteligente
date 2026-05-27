@@ -39,3 +39,7 @@ Problemă de regresie.
 
 ## Autor
 [Alex Herman]
+
+# DOCUMENTAȚIE PROIECT
+
+## Analiza și Predicția Performanței Elevilor
